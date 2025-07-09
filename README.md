@@ -10,4 +10,4 @@ This project implements a fully functional UNO card game for two players using O
 * The Game state is continuously saved to a pickle file in a game session and if the game session were to be exited, the same session can be loaded from the pickle file
 * Robust in-notebook testing has been included to demonstrate gameplay functionality
 
-![Evolutionary Optimisation](images/evolutionary_optimisation.png)
+![class](images/card_class.png)
