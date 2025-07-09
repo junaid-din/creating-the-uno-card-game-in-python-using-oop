@@ -1,4 +1,4 @@
-## Creation of the UNO game in Python using OOP
+## Creation of the UNO Card Game in Python using OOP
 
 This project implements a fully functional UNO card game for two players using Object-Oriented Programming (OOP) in Python within a Jupyter Notebook. The design emphasizes clean structure, encapsulation, inheritance, and other OOP principles, while simulating the core rules and mechanics of a traditional UNO game. The implementation includes support for house rules, persistent game state saving and robust validation. 
 
