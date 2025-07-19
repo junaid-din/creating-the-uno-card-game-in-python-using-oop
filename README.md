@@ -15,3 +15,8 @@ Tasks completed:
 * Robust in-notebook testing has been included to demonstrate gameplay functionality
 
 ![class](images/card_class.png)
+
+### 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Junaid Din. **Use of this project requires attribution in accordance with the license terms.**
