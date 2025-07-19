@@ -1,4 +1,4 @@
-## Creation of the UNO Card Game in Python using OOP
+## Object-Oriented Programming (OOP) Implementation of the UNO Card Game in Python
 
 Created by [Junaid Din](https://github.com/junaid-din)
 
